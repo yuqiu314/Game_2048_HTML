@@ -8,3 +8,5 @@ But if you want...
 You can have fun with double clicking the 'index.html'.
 You can find the core code in 'js/index.js'.
 Have fun.
+
+Click to play: https://yuqiu314.github.io/Game_2048_HTML/
